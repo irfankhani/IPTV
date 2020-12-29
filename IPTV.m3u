@@ -136,7 +136,7 @@ http://103.205.133.48/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi",Sony Max
-#http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
+http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
