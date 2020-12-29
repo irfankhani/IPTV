@@ -444,7 +444,7 @@ http://103.205.133.48/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg" group-title="Sports",Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1
-https://khulnalive.anytv.live/starsp1/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 #EXTINF:0 tvg-logo="https://sport-tv-guide.live/images/stations/a230.png" group-title="Sports",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2
