@@ -154,7 +154,7 @@ http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Hindi",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi",Sony Sab
-https://rebrand.ly/sonysab
+https://raw.githubusercontent.com/firojshahriyarmasud/Channels/main/Sony%20Sab.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV
@@ -172,7 +172,7 @@ http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi",& TV
 http://103.205.133.48/hls/andtv.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi",& TV HD
-https://rebrand.ly/andhd
+https://raw.githubusercontent.com/firojshahriyarmasud/Channels/main/And%20Tv.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="Hindi",Zee Cafe
 http://z5amshls.akamaized.net:80/zeecafesd/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://uploads.tapatalk-cdn.com/20171016/c21a81ee430978be31e22ae5c286c47d.jpg" group-title="Hindi",Zee Smile
@@ -313,7 +313,7 @@ https://khulnalive.anytv.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&usqp=CAU" group-title="Kids",Sony YAY
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Carttoon Network
-https://rebrand.ly/cartoonnetwork
+https://raw.githubusercontent.com/firojshahriyarmasud/Channels/main/Cartoon%20Network.m3u8
 #http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OnAir_Logo_Boomerang_HD_2015.png/800px-OnAir_Logo_Boomerang_HD_2015.png" group-title="Kids",Boomerang HD
