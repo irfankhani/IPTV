@@ -318,7 +318,7 @@ http://103.146.55.212:8088/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&usqp=CAU" group-title="Kids",Sony YAY
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Carttoon Network
-https://raw.githubusercontent.com/firojshahriyarmasud/Channels/main/Cartoon%20Network.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
 #http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OnAir_Logo_Boomerang_HD_2015.png/800px-OnAir_Logo_Boomerang_HD_2015.png" group-title="Kids",Boomerang HD
