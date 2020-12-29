@@ -91,7 +91,8 @@ http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
-http://103.205.133.48/hls/sony8.m3u8
+http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
+#http://103.205.133.48/hls/sony8.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies
 http://45.127.244.7:8080/hls/channel13.m3u8
