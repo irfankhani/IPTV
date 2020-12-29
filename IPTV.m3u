@@ -144,7 +144,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
-http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bhoomikadigitalcable.in/wp-content/uploads/2020/08/Rishtey_Cineplex.png" group-title="Hindi",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Hindi",Colors Cineplex HD
