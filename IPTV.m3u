@@ -120,7 +120,7 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Indian Bangla",Sangeet Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg" group-title="Indian Bangla",Dhoom Music
-https://khulnalive.anytv.live/dhoom/index.m3u8
+http://103.205.133.48/hls/dhoommusic.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Indian Bangla",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Indian Bangla",Calcutta News
