@@ -256,6 +256,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0O54VvE7Atl7zFaDv7-hKLgEg-lRwrQbfKg&usqp=CAU" group-title="Music",VH1
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="Music",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="Music",WoW Music
