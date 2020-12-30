@@ -91,8 +91,8 @@ http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
-http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
-#http://103.205.133.48/hls/sony8.m3u8
+http://103.205.133.48/hls/sony8.m3u8
+#http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies
 http://45.127.244.7:8080/hls/channel13.m3u8
@@ -137,8 +137,8 @@ http://103.205.133.48/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi",Sony Max
-http://45.127.244.7:8080/hls/channel6.m3u8
-#http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
+http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
+#http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="Hindi",Sony Max 2
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
