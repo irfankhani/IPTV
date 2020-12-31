@@ -99,7 +99,7 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:0 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/8/2019/10/cropped-Z-B-512x512-2.png" group-title="Indian Bangla",Zee Bangla
 http://103.205.133.48/hls/zeebangla.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="Indian Bangla",Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Kri_3djkv8jGHair4lPzH_l1srduIuKpw&usqp=CAU" group-title="Indian Bangla",Ruposhi Bangla
 http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema
@@ -139,7 +139,8 @@ http://103.205.133.48/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi",Sony Max
-http://45.127.244.7:8080/hls/channel6.m3u8
+http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8?token=soheliptv01826655778
+#http://45.127.244.7:8080/hls/channel6.m3u8
 #http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="Hindi",Sony Max 2
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
@@ -456,7 +457,7 @@ http://103.205.133.48/hls/chss2.m3u8
 #EXTINF:0 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h" group-title="Sports",Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
-http://45.127.244.7:8080/hls/channel3.m3u8
+http://103.84.253.5:80/live/fastfeed1001/index.m3u8
 #EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="none" group-title="Sports",Geo Super HD
