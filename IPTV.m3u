@@ -451,7 +451,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 http://103.84.253.5:80/live/fastfeed1001/index.m3u8
 #EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:0 tvg-name="PTV Sports"https://supersport.azureedge.net/web-assets/placeholder.png" group-title="Sports",Super Sports
+#EXTINF:0 tvg-logo="https://supersport.azureedge.net/web-assets/placeholder.png" group-title="Sports",Super Sports
 https://raw.githubusercontent.com/firojshahriyarmasud/Channels/main/Super%20Sport.m3u8
 #EXTINF:0 tvg-logo="none" group-title="Sports",Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
