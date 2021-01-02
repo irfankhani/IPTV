@@ -117,7 +117,7 @@ https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
 #http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Indian Bangla",Sangeet Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
+http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg" group-title="Indian Bangla",Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Indian Bangla",ABP Ananda
