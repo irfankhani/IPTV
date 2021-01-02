@@ -16,7 +16,7 @@ https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Independent
 http://103.205.133.21/hls/independent.m3u8
 #EXTINF:0 tvg-id="Channeli.uk" group-title="Bangladeshi",Channel I
-http://103.205.133.21/hls/channeli.m3u8
+http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:0 tvg-id="ntv" group-title="Bangladeshi",NTV
 http://103.205.133.48/hls/ntv.m3u8
 #EXTINF:0 tvg-id="rtvint" group-title="Bangladeshi",RTV
@@ -56,9 +56,9 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Bijoy TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+http://103.205.133.21/hls/bijoytv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Gaan Bangla
-https://rhridoy136.shortcm.li/gaanbangla.m3u8
+http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladeshi",ATN Music
@@ -411,7 +411,7 @@ http://103.205.133.48/hls/ten1.m3u8
 #EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2
 http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:0 tvg-id="StarSports1.in" group-title="Sports",Star Sports 1
-http://103.205.133.21/hls/chss1.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 #EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:0 tvg-id="StarSports2.in" group-title="Sports",Star Sports 2
@@ -506,7 +506,6 @@ https://gma2.blab.email/espn2.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3?DVR
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",ESPN ACCN
 https://gma2.blab.email/acc.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ESPN SEC
