@@ -10,11 +10,11 @@ http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
 #EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="Bangladeshi",Somoy News
 http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
-http://103.205.133.21/hls/dbcnews.m3u8
+http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga
 http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
-http://103.205.133.21/hls/independent.m3u8
+http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
 http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladeshi",NTV
