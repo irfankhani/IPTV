@@ -164,8 +164,6 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Hindi",Zee Classic
 http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
-#EXTINF:0 tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg" group-title="Hindi",Zee World
-http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi",Sony Sab
 http://208.115.215.42/Sony_Sab_HD/track-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Hindi",Zee Anmol Cinema
@@ -178,6 +176,8 @@ http://103.205.133.21/hls/chsp.m3u8
 http://103.205.133.21/hls/chc.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",& TV
 http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:0 tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg" group-title="Hindi",Zee World
+http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="Hindi",Zee Cafe HD
 http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
 #EXTINF:0 tvg-logo="https://uploads.tapatalk-cdn.com/20171016/c21a81ee430978be31e22ae5c286c47d.jpg" group-title="Hindi",Zee Smile
@@ -308,7 +308,10 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Documentery",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentery",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentery",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
                                                                                    **Kids**
 
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/1535015121_eVeiVr_Discovery_kids_logo.jpg" group-title="Kids",Discovery Kids
@@ -357,8 +360,7 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv14.net/wp-content/uploads/2013/03/Al-Sunnah-Saudi.jpg" group-title="Islamic",Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="Islamic",The Islamic Network
-http://162.244.81.145:2215/live/livestream/playlist.m3u8
+
 
                                                                        **Mixed**
 
