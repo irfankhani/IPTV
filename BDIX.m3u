@@ -220,7 +220,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 https://raw.githubusercontent.com/firojshahriyarmasud/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO HITS
 https://raw.githubusercontent.com/firojshahriyarmasud/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO Signature
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English",HBO Signature
 https://raw.githubusercontent.com/firojshahriyarmasud/amarnettv.github.io/master/channels/hbosig.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
