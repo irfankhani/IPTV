@@ -216,8 +216,8 @@ http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
-#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="English",HBO Red
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="English",HBO Family
+https://raw.githubusercontent.com/firojshahriyarmasud/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/76-762940_mbc-max-tv-frequency-eutelsat-7-west-a.png" group-title="English",MBC MX
