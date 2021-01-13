@@ -223,17 +223,17 @@ https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/chan
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English",HBO Signature
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbosig.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/MBC%20HD.m3u8
 #EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/76-762940_mbc-max-tv-frequency-eutelsat-7-west-a.png" group-title="English",MBC MX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/MBC%20MX.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",MBC Action HD
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/MBC%20Action.m3u8
 #EXTINF:0 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="English",&Flix HD
 http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="English",& Prive HD
 http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png" group-title="English",AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="English",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
@@ -389,7 +389,7 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="Mixed",NHK World Japan
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/NHK%20World.m3u8
 #EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="Mixed",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/Fashion%20%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Mixed",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="Mixed",Dove Channel
