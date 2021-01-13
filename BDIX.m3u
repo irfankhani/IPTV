@@ -212,10 +212,10 @@ http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
 
                                                                  **English**
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English",HBO
-https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English",HBO
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbo.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="English",HBO Family
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO HITS
@@ -389,7 +389,7 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="Mixed",NHK World Japan
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/NHK%20World.m3u8
 #EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="Mixed",Fashion TV
-https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/Fashion%20%20TV.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Mixed",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="Mixed",Dove Channel
