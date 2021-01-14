@@ -215,14 +215,13 @@ http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English",HBO
-https://raw.githubusercontent.com/subirkumarpaul/amarnettv.github.io/master/channels/hbo.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbo.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="English",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbohits.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbosig.m3u8
 #EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="English",HBO RED
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
