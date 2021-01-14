@@ -218,7 +218,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbo.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="English",HBO Family
-https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbofamily.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO HITS
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbohits.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English",HBO Signature
