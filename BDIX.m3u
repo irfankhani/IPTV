@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/chan
 #EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="Mixed",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Mixed",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist_3.m3u8
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="Mixed",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF: -0 tvg-logo="https://www.channelnewsasia.com/blob/8396140/079e748f004a5699f1427ac5764878da/cna-logo-data.jpg" group-title="Mixed", CNA
@@ -421,7 +421,7 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
 #EXTINF:0 tvg-logo="https://d12jofbmgge65s.cloudfront.net/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="Mixed",Fox News US
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="Mixed", Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@asfaiptv
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHB6u9ioZQxJzxtG_aWfLXp9y14nIdvsdUQ&usqp=CAU" group-title="Mixed",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png"" group-title="Mixed",CNN
