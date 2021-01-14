@@ -237,7 +237,7 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png" group-title="English",AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="English",Cinemax
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
                                                                          **Music**
 
@@ -318,6 +318,8 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentery",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="Documentery",Fail Army
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentery",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
                                                                                    **Kids**
