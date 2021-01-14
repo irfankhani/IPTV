@@ -220,9 +220,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="English",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English",HBO HITS
-https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbohits.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English",HBO Signature
-https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/hbosig.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/MBC%20HD.m3u8
 #EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/76-762940_mbc-max-tv-frequency-eutelsat-7-west-a.png" group-title="English",MBC MX
