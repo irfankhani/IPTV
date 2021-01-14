@@ -375,7 +375,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
                                                                        **Mixed**
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg" group-title="Mixed",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8?@amarnettv.live
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Mixed",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="Mixed",Bloomberg Asia
@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/chan
 #EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="Mixed",Fashion TV
 https://raw.githubusercontent.com/firojshahriyarmasud/iptv.github.io/master/channels/Fashion%20%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Mixed",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist_3.m3u8
 #EXTINF:-0 tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="Mixed",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF: -0 tvg-logo="https://www.channelnewsasia.com/blob/8396140/079e748f004a5699f1427ac5764878da/cna-logo-data.jpg" group-title="Mixed", CNA
