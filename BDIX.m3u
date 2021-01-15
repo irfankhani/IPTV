@@ -452,8 +452,6 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeq03ZcA0Xc7iBuZL6-5BioEWkJOAjPZoRg&usqp=CAU" group-title="Mixed",CTGN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Mixed",Food Network
-http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=bb638a4fa69322b9284dd4b672954a2e
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="Mixed",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIn5ggFHMuZYYzngFd5Wn4v2jS64v8RQUAQ&usqp=CAU" group-title="Mixed",Mirror Now
