@@ -394,6 +394,10 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="Mixed",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="Mixed",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Mixed",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KyyZU1Ek2fKSskpSceFH1N_pdjgDXGt_LA&usqp=CAU" group-title="Mixed",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="Mixed",NHK World Japan
