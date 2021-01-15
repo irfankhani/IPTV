@@ -342,7 +342,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",Animax
 http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="Kids",Spacetoon
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist_2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="Kids",Sheemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
@@ -392,6 +392,8 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Mixed",TLC HD
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="Mixed",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?@amarnettv.live
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KyyZU1Ek2fKSskpSceFH1N_pdjgDXGt_LA&usqp=CAU" group-title="Mixed",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="Mixed",NHK World Japan
