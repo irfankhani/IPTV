@@ -108,7 +108,7 @@ https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg" group-title="Indian Bangla",Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Indian Bangla",Sangeet Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
+http://103.138.172.178:8080/sbangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Indian Bangla",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CN_bengali.jpeg" group-title="Indian Bangla",Calcutta News
@@ -250,9 +250,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-3Qz8bfzhHYA/AAAAAAAAAAI/AAAAAAAAAAA/KK0rj1dWcjk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Music",UTV Edge
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="Music",Dil se
-https://rhridoy136.shortcm.li/dilse.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/01/15/Zoom.jpg" group-title="Music",Zoom
-https://any.hitectv.live:4443/zoom/tracks-v1a1/mono.m3u8
+https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjaar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="Music",SBI Music
@@ -303,7 +301,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
                                                                                    **Kids**
 
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/1535015121_eVeiVr_Discovery_kids_logo.jpg" group-title="Kids",Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids",Nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&usqp=CAU" group-title="Kids",Sony YAY
