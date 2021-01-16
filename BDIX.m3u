@@ -259,7 +259,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
 #EXTINF:-0 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",B4U Music
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/b4umusic/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+https://live.hungama.com/linear/kadak-hits/playlist_480p/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/04/9X-jhakaas-logo.jpg" group-title="Music",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.dropbox.com/s/0gsamt5l40x1qgo/Music%20Top.png?raw=1" group-title="Music",Music Top
@@ -336,7 +336,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OnAir_Logo_Boomerang_HD_2015.png/800px-OnAir_Logo_Boomerang_HD_2015.png" group-title="Kids",Boomerang HD
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="Kids",ANI Plus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",Animax
@@ -422,9 +422,9 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/21/indiatoday.jpg" group-title="Mixed",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Mixed",TLC HD
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="Mixed",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?@amarnettv.live
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="Mixed",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Mixed",Times Now HD
