@@ -149,11 +149,11 @@ http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
-http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+http://cv.khushitv.xyz/channels.php?c=zing&e_480p/index=.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
 http://cv.khushitv.xyz/channels.php?c=action&e_480p/index=.m3u8
 #EXTINF:-1 tvg-logo="https://bhoomikadigitalcable.in/wp-content/uploads/2020/08/Rishtey_Cineplex.png" group-title="Hindi",Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_Cine_Bolly.jpg" group-title="Hindi",Colors Cineplex
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u
 #EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/sm/bflix-movie.png" group-title="Hindi",Bflix Movies
