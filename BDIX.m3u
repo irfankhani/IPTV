@@ -52,7 +52,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="Bangladeshi",Channel 9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladeshi",GTV
-http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+http://aklivetv.com:8080/gazitv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Bangladeshi",Duranta
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Bangladeshi",Bangla TV
@@ -64,7 +64,7 @@ http://103.205.133.21/hls/bijoytv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Bangladeshi",Gaan Bangla
 http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladeshi",RTV Music
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+http://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladeshi",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://tvtolive.com/wp-content/uploads/Joyjatra-TV.tvtolive.com_.jpg" group-title="Bangladeshi",Joyojatra
@@ -76,8 +76,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Bangladeshi",Alif Tv
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports
-http://209.126.120.153/hls/tsports.m3u8
-#http://45.127.244.7:8080/hls/channel2.m3u8
+#http://209.126.120.153/hls/tsports.m3u8
+http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg" group-title="Bangladeshi",Nakshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg" group-title="Bangladeshi",NRB
@@ -102,7 +102,7 @@ http://edge-sgp.bd-cast.net/master/cdn.banglatv.xyz:8080/beeiptv-stb/jalshamovie
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg"" group-title="Indian Bangla",Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:0 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Indian Bangla",Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8
 #http://45.127.244.7:8080/hls/channel14.m3u8
@@ -301,8 +301,8 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/discoverybengali_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="Documentery",Discovery Channel
-http://84.22.33.210:8000/DiscoveryCH/index.m3u8
+#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="Documentery",Discovery HD
+https://itvorigin.multitvsolution.com:443/idvo/discoveryhd_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
