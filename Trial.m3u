@@ -133,10 +133,7 @@ http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="English",& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="English",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="English",Lotus Macau
-http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
+
 
  
                                                                          **Music**
@@ -177,17 +174,12 @@ https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/288/60/bangladesh-bengali-discovery-channel-television-channel-bangla-png-clip-art-thumbnail.png" group-title="Documentery",Discovery English
 https://itvorigin.multitvsolution.com:443/idvo/discoveryeng_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science Hindi
-https://itvorigin.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
 https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Documentery",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Documentery",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-discovery-6-kh.png", ONETV 6 - Discovery
-http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 
 
 
@@ -218,12 +210,10 @@ http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lHs3Bz6fujuE9cEHFHVcjoDhDHh99egWDQ&usqp=CAU" group-title="Kids",Universal Kids
 http://103.205.133.21/hls/discoverykids.m3u8
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/1535015121_eVeiVr_Discovery_kids_logo.jpg" group-title="Kids",Discovery Kids
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
-#https://itvorigin.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmd49nU-dGrGwBrJxC0LIgEAiCZHv8SXIeHJ0kXzVAGJpZa-3_DFryNZZ_&s=10" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY Hindi
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6627/index.m3u8
+
                                                                     
 																	
 																	 
@@ -258,8 +248,6 @@ http://203.162.235.41:16918
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Mixed",TRT 1
 https://tv-trt1.live.trt.com.tr/master_480.m3u8
-#EXTINF:0 tvg-logo="https://static10.tgstat.ru/channels/_0/68/68071c126bbd5e34b0795f8065ff8693.jpg" group-title="Mixed",Milliy TV
-http://serv1.milliy.tv/hls/index_480.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="Mixed",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/livetv-share-aajtak.jpg" group-title="Mixed",Aaj Tak HD
@@ -306,8 +294,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF: -0 tvg-logo="https://sports.cbsimg.net/images/video/player/CBSSportsLogo.png" group-title="Sports", CBS Sports Extra
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-VkQ2htIclLyzQ5UZsgtVpVhBkD-daAqDTw&usqp=CAU" group-title="Sports",FC Bayern TV Live
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:0 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",Edge Sports
