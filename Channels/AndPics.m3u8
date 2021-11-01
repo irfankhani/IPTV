@@ -1,5 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-#EXTINF: -1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title=" Jio Movies", And Pictures HD
 http://tvflixjom.ddns.net//jioo.php?c=And_Pictures_HD&q=800&e=junk.m3u8
